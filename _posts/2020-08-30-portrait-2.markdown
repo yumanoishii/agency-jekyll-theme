@@ -1,0 +1,17 @@
+---
+title: Portrait 2
+subtitle: Sanguine charcoal
+layout: default
+modal-id: 2
+date: 2020-08-30 00:00:00
+img: portrait2.png
+thumbnail: portrait2-tn.png
+alt: image-alt
+project-date: April 2019
+client: Start Bootstrap
+category: Drawings
+description: >-
+  This portrait was done in a warm sanguin color and meant not to be a final
+  product, but rather a short 20 minute study to capture the most important
+  features of the subject.
+---
