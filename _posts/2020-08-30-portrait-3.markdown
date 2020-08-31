@@ -1,0 +1,16 @@
+---
+title: Portrait 3
+subtitle: Black charcoal oil
+layout: default
+modal-id: 3
+date: 2020-08-30 00:00:00
+img: portrait3.png
+thumbnail: portrait3-tn.png
+alt: image-alt
+project-date: April 2019
+client: Start Bootstrap
+category: Drawings
+description: >-
+  This charcoal oil pencil drawing was a full profile study of the human facial
+  features.
+---
