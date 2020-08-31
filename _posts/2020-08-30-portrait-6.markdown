@@ -1,0 +1,16 @@
+---
+title: Portrait 6
+subtitle: Sanguine Charcoal
+layout: default
+modal-id: 6
+date: 2020-08-30 00:00:00
+img: portrait6.png
+thumbnail: portrait6-tn.png
+alt: image-alt
+project-date: August 2020
+client: Start Bootstrap
+category: Drawings
+description: >-
+  This most recent work captures a child who has a puzzled expression. Yet the
+  color is warm, giving the portrait a hopeful and gentle feel.
+---
