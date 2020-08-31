@@ -1,0 +1,16 @@
+---
+title: Portrait 5
+subtitle: Black Charcoal
+layout: default
+modal-id: 5
+date: 2020-08-30 00:00:00
+img: portrait5.png
+thumbnail: portrait5-tn.png
+alt: image-alt
+project-date: April 2019
+client: Start Bootstrap
+category: Drawings
+description: >-
+  This drawing was the final project of a portrait study class where highlights
+  and lowlights are fully integrated as a longer in-depth exercise.
+---
